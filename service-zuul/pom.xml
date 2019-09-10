@@ -9,7 +9,7 @@
     </parent>
     <artifactId>service-zuul</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>service-feign</name>
+    <name>service-zuul</name>
     <description>Demo project for eureka-client</description>
     <dependencies>
         <dependency>
