@@ -13,6 +13,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>cloud</name>
     <description>Demo project for Spring Cloud</description>
+    <modules>
+        <module>eureka-server</module>
+        <module>eureka-client</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
