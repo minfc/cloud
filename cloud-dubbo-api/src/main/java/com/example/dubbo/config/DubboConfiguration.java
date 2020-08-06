@@ -1,4 +1,4 @@
-package com.example.clouddubbo.dubbo;
+package com.example.dubbo.config;
 
 import org.springframework.context.annotation.Configuration;
 
