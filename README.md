@@ -1,2 +1,2 @@
 # cloud
-springcloud
+dubbo-spring-cloud-demo
