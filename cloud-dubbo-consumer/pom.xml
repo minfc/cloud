@@ -19,5 +19,10 @@
             <artifactId>cloud-dubbo-api</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <!--服务监控-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
     </dependencies>
 </project>

@@ -1,4 +1,4 @@
-package com.example.dubbo.implement;
+package com.example.dubbo.service.impl;
 
 import com.example.dubbo.entity.User;
 import com.example.dubbo.service.UserService;
